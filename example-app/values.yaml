@@ -1,0 +1,4 @@
+deployment:
+        image: nginx:latest
+        tag: "latest"
+               
